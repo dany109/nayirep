@@ -42,3 +42,4 @@ def decrypt(text,s):
    return result
 #check the above function
 print("DSECRYPTION:",decrypt(z,s))
+print("encryption tasks")
